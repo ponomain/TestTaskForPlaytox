@@ -1,0 +1,4 @@
+2022-01-15 17:37:59,957 INFO ru.playtox.app.Main [main] Account(id=0e649c01-bcb3-415c-94db-031483c77010, money=10000)
+2022-01-15 17:37:59,963 INFO ru.playtox.app.Main [main] Account(id=6977fbbf-9a07-4bec-833b-39d28f8ffd31, money=10000)
+2022-01-15 17:37:59,964 INFO ru.playtox.app.Main [main] Account(id=c2ff7c86-065d-42ef-a51a-6f9679e84e73, money=10000)
+2022-01-15 17:37:59,964 INFO ru.playtox.app.Main [main] Account(id=cf165b3f-3da8-403d-84b3-81e635301755, money=10000)
