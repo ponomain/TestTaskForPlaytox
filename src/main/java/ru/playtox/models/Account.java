@@ -13,7 +13,9 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class Account {
+@Setter
+@Getter
+public class Account{
     private String id;
     private int money;
 }
